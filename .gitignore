@@ -1,0 +1,102 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+.vscode/
+.vs/
+*.sln.ide/
+*.suo
+*.user
+*.userprefs
+*.sln
+*.sln.DotSettings
+*.sln.DotSettings.user
+*.dbmdl
+*.dbproj.schemaview
+*.dbproj
+*.jfm
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cache
+*.pdb
+
+# Visual Studio Code files
+*.code-workspace
+
+# Rider files
+.idea/
+
+# Logs
+*.log
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+**/packages/
+**/node_modules/
+
+# DotNet CLI
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# User-specific files
+*.rsuser
+*.sln.docstates
+*.pdb
+*.ilk
+*.idb
+*.ipch/
+*.tss/
+*.tmp/
+*.temp/
+
+# Others
+*.class
+*.exe
+*.dll
+*.app
+*.apk
+*.ipa
+*.msp
+*.msi
+*.manifest
+*.zip
+*.tar.gz
+*.7z
+*.tar
+*.rar
+*.bak
+*.dmp
+
+# Visual Studio 2019 or newer
+.vs/
+.vscode/
+*.sln.ide/
+*.suo
+*.user
+*.userprefs
+
+# Coverage results
+coverage/
+
+# Backup files
+*.bak
+*.swp
+*~ 
+
+# Azure Web App publish folder
+publish/
+
+# Environment files
+.env
